@@ -45,3 +45,4 @@ stm32f4xx_it.c
 
 IMU와 ibus는 uart통신이고 ODrive는 각각 1,2의 ID가 부여되어 can bus로 직렬 연결하였습니다.
 
+슝~
