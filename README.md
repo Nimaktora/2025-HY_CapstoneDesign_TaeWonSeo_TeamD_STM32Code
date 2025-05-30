@@ -1,9 +1,11 @@
 # 2025-HY_CapstoneDesign_TaeWonSeo_TeamD_STM32Code
 
 한양대학교 서태원 교수님 2025년 종합설계 자료입니다.
-D조는 MCU로 STM32F446RE-NUCLEO를 사용하였습니다.
 
 주제는 'Dynamics Modeling and Balance Control of a Single-Legged Unicycle Robot' 입니다
+
+
+D조는 MCU로 STM32F446RE-NUCLEO를 사용하였습니다.
 
 ![image](https://github.com/user-attachments/assets/69d7b286-a5a4-4ada-9e5f-93b54a22a9e7)
 
