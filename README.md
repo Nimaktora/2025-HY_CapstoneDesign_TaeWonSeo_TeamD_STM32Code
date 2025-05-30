@@ -16,9 +16,11 @@ Electric Parts
 IMU는 EBIMU를 사용하였습니다.
 
 수정된 파일 목록
+
 main.c
 can.c
 stm32f4xx_it.c
 
 사용한 라이브러리
+
 목화솜씨 ibus.h, ibus.c
