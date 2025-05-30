@@ -17,8 +17,8 @@ IMU는 EBIMU를 사용하였습니다.
 
 수정된 파일 목록
 
-main.c
-can.c
+main.c\n
+can.c\n
 stm32f4xx_it.c
 
 사용한 라이브러리
